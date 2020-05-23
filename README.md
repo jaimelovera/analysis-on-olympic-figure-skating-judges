@@ -4,4 +4,4 @@
 
 > Analysis can be found in [analysis_on_olympic_figure_skating_judges.ipynb](https://github.com/jaimelovera/analysis-on-olympic-figure-skating-judges/blob/master/analysis_on_olympic_figure_skating_judges.ipynb).
 
-> Datasets can be found [here](https://github.com/BuzzFeedNews/2018-02-olympic-figure-skating-analysis/tree/master/data).
+> Original datasets can be found [here](https://github.com/BuzzFeedNews/2018-02-olympic-figure-skating-analysis/tree/master/data).
