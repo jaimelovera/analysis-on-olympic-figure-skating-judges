@@ -2,6 +2,6 @@
 
 > I used the same datasets but approached the analysis differently to prove that judges have a bias towards competitors from their own nation. 
 
-> Analysis can be found in "analysis_on_olympic_figure_skating_judges.ipynb".
+> Analysis can be found in [analysis_on_olympic_figure_skating_judges.ipynb](https://github.com/jaimelovera/analysis-on-olympic-figure-skating-judges/blob/master/analysis_on_olympic_figure_skating_judges.ipynb).
 
 > Datasets can be found [here](https://github.com/BuzzFeedNews/2018-02-olympic-figure-skating-analysis/tree/master/data).
